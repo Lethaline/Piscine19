@@ -13,7 +13,7 @@ C07 : 100% <br />
 C08 : 100% <br />
 C09 : 100% <br />
 C10 : Not Done <br />
-C11 : 50% (Miss a '\n' at the end of 0) <br />
+C11 : 50% (Miss a '\n' at the end of 0 in 5th ex) <br />
 C12 : Not Done <br />
 C13 : Not Done <br />
 
